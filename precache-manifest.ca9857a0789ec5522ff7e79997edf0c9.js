@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "452b6b134088659f304dced670d4cfed",
+    "revision": "36ccf9a7d80deaa011b66d07b2acc07d",
     "url": "/manalimandani_reactapp/index.html"
   },
   {
-    "revision": "691fb3538561c56705a3",
+    "revision": "a6643241b54cd0cb6fbe",
     "url": "/manalimandani_reactapp/static/css/main.fa74953d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manalimandani_reactapp/static/js/2.03805ceb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "691fb3538561c56705a3",
-    "url": "/manalimandani_reactapp/static/js/main.4ac944b8.chunk.js"
+    "revision": "a6643241b54cd0cb6fbe",
+    "url": "/manalimandani_reactapp/static/js/main.07072175.chunk.js"
   },
   {
     "revision": "fcaa637abdea80e79f8c",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/manalimandani_reactapp/static/css/main.fa74953d.chunk.css",
-    "main.js": "/manalimandani_reactapp/static/js/main.4ac944b8.chunk.js",
-    "main.js.map": "/manalimandani_reactapp/static/js/main.4ac944b8.chunk.js.map",
+    "main.js": "/manalimandani_reactapp/static/js/main.07072175.chunk.js",
+    "main.js.map": "/manalimandani_reactapp/static/js/main.07072175.chunk.js.map",
     "runtime-main.js": "/manalimandani_reactapp/static/js/runtime-main.5ede4a71.js",
     "runtime-main.js.map": "/manalimandani_reactapp/static/js/runtime-main.5ede4a71.js.map",
     "static/js/2.03805ceb.chunk.js": "/manalimandani_reactapp/static/js/2.03805ceb.chunk.js",
     "static/js/2.03805ceb.chunk.js.map": "/manalimandani_reactapp/static/js/2.03805ceb.chunk.js.map",
     "index.html": "/manalimandani_reactapp/index.html",
-    "precache-manifest.dcb609b9ddf4e19383bf62db13bb0a33.js": "/manalimandani_reactapp/precache-manifest.dcb609b9ddf4e19383bf62db13bb0a33.js",
+    "precache-manifest.ca9857a0789ec5522ff7e79997edf0c9.js": "/manalimandani_reactapp/precache-manifest.ca9857a0789ec5522ff7e79997edf0c9.js",
     "service-worker.js": "/manalimandani_reactapp/service-worker.js",
     "static/css/main.fa74953d.chunk.css.map": "/manalimandani_reactapp/static/css/main.fa74953d.chunk.css.map",
     "static/js/2.03805ceb.chunk.js.LICENSE.txt": "/manalimandani_reactapp/static/js/2.03805ceb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5ede4a71.js",
     "static/js/2.03805ceb.chunk.js",
     "static/css/main.fa74953d.chunk.css",
-    "static/js/main.4ac944b8.chunk.js"
+    "static/js/main.07072175.chunk.js"
   ]
 }
