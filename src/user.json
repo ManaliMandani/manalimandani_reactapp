@@ -1,10 +1,9 @@
 [
     {
       "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "picture": "./src/images/shyam.jpg",
-      "email": "Sincere@april.biz",
+      "name": "Shyam Bhingaradiya",
+      "username": "shyamdb",
+      "email": "shyambhingaradiya@gmail.com",
       "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
@@ -25,9 +24,9 @@
     },
     {
       "id": 2,
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
+      "name": "Manali Mandani",
+      "username": "manalisb",
+      "email": "manalimandani1997@gmail.com",
       "address": {
         "street": "Victor Plains",
         "suite": "Suite 879",

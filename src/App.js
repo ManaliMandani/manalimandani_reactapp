@@ -11,17 +11,17 @@ class App extends Component{
     super();
     
     this.state = {
-      //string: 'Hello Shyam Bhingaradiya'
-      monsters: [],
+      //monsters: []
+      monsters: require("./user.json"),
       searchField: ''
     };
  }
 
- componentDidMount(){
-    fetch('https://jsonplaceholder.typicode.com/users')
-    .then(response => response.json())
-    .then(users => this.setState({monsters: users }));
-  }
+ //componentDidMount(){
+   // fetch('https://jsonplaceholder.typicode.com/users')
+    //.then(response => response.json())
+    //.then(users => this.setState({monsters: users }));
+  //}
  render(){
     const {monsters,searchField} = this.state;  
     const filteredMonsters = monsters.filter(monster =>
